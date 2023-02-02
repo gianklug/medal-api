@@ -1,0 +1,7 @@
+LICENSE
+README.md
+setup.py
+medal_api/medal_api.egg-info/PKG-INFO
+medal_api/medal_api.egg-info/SOURCES.txt
+medal_api/medal_api.egg-info/dependency_links.txt
+medal_api/medal_api.egg-info/top_level.txt
