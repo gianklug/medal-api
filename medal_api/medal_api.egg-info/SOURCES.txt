@@ -1,6 +1,5 @@
 LICENSE
 README.md
-pyproject.toml
 setup.py
 medal_api/medal_api.egg-info/PKG-INFO
 medal_api/medal_api.egg-info/SOURCES.txt

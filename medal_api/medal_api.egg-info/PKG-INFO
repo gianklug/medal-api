@@ -1,12 +1,9 @@
 Metadata-Version: 2.1
 Name: medal-api
-Version: 0.1.2
-Summary: UNKNOWN
+Version: 0.1.3
 Home-page: https://github.com/gianklug/medal-api
 Author: Gian Klug
 Author-email: gian.klug@ict-scouts.ch
-License: UNKNOWN
-Platform: UNKNOWN
 Description-Content-Type: text/markdown
 License-File: LICENSE
 
@@ -17,7 +14,7 @@ Unofficial API Client for [medal.tv](https://medal.tv)
 # Usage
 ```py
 # Don't know if this can be done any better
-from medal_api.MedalAPI import MedalAPI
+from medal_api import MedalAPI
 
 # Create the API object
 api = MedalAPI()
@@ -32,5 +29,3 @@ print(api.get_category(0))
 print(api.get_recent_games("Test"))
 
 ```
-
-

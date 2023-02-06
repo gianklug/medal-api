@@ -4,7 +4,7 @@ from pathlib import Path
 this_directory = Path(__file__).parent
 long_description = (this_directory / "README.md").read_text()
 
-BUILD_ID = os.environ.get("BUILD_BUILDID", "2")
+BUILD_ID = os.environ.get("BUILD_BUILDID", "3")
 
 setup(
     name="medal-api",
